@@ -16,6 +16,7 @@ This is an example of a `.commitlint/commitlint.yml` file:
 
 ```yaml
 enabled: true
+use-emoji: true
 
 rules:
   header-max-length: [2, "always", 100]
