@@ -9,9 +9,7 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   server: {
     host: true,
-    allowedHosts: [
-      "dubai-trusts-asked-considers.trycloudflare.com",
-    ],
+    allowedHosts: true
   },
   adapter: cloudflare(),
   integrations: [
