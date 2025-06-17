@@ -7,6 +7,7 @@ description: A small introduction to commitlint
 	<a href="https://github.com/jurienhamaker/commitlint/releases"><img src="https://img.shields.io/github/release/jurienhamaker/commitlint.svg" alt="Latest Release"></a>
 	<a href="https://pkg.go.dev/github.com/jurienhamaker/commitlint?tab=doc"><img src="https://godoc.org/github.com/jurienhamaker/commitlint?status.svg" alt="GoDoc"></a>
 	<a href="https://github.com/jurienhamaker/commitlint/actions"><img src="https://github.com/jurienhamaker/commitlint/actions/workflows/release.yml/badge.svg?event=release" alt="Build Status"></a>
+	<a href="https://goreportcard.com/report/github.com/jurienhamaker/commitlint"><img src="https://goreportcard.com/badge/github.com/jurienhamaker/commitlint" alt="Go report card"></a>
 </div>
 <div style="display: flex; gap:0.5rem;">
 	<a href="https://commitlint.jurien.dev"><img src="https://img.shields.io/badge/documentation-blue?logo=mdBook" alt="Documentation"></a>
