@@ -23,7 +23,7 @@ export default defineConfig({
       },
       editLink: {
         baseUrl:
-          "https://github.com/jurienhamaker/commitlint-docs/edit/main/docs/",
+          "https://github.com/jurienhamaker/commitlint-docs/edit/main/",
       },
       plugins: [
         starlightThemeObsidian({
