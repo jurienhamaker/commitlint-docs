@@ -7,7 +7,9 @@ description: A reference page for cli
 $ commitlint --help
 Usage: commitlint <command> [flags]
 
-A tool to apply commitlint to your commits ✨
+A lightweight, fast, and cross-platform CLI tool for linting Git commit messages. ✨
+
+With <3 by Jurien.dev
 
 Flags:
   -h, --help       Show context-sensitive help.
