@@ -3,6 +3,17 @@ title: About commitlint
 description: A small introduction to commitlint
 ---
 
+<div style="display: flex; gap:0.5rem;">
+	<a href="https://github.com/jurienhamaker/commitlint/releases"><img src="https://img.shields.io/github/release/jurienhamaker/commitlint.svg" alt="Latest Release"></a>
+	<a href="https://pkg.go.dev/github.com/jurienhamaker/commitlint?tab=doc"><img src="https://godoc.org/github.com/jurienhamaker/commitlint?status.svg" alt="GoDoc"></a>
+	<a href="https://github.com/jurienhamaker/commitlint/actions"><img src="https://github.com/jurienhamaker/commitlint/actions/workflows/release.yml/badge.svg?event=release" alt="Build Status"></a>
+</div>
+<div style="display: flex; gap:0.5rem;">
+	<a href="https://commitlint.jurien.dev"><img src="https://img.shields.io/badge/documentation-blue?logo=mdBook" alt="Documentation"></a>
+	<a href="https://discord.gg/UttZbEd9zn"><img src="https://img.shields.io/discord/1164669271310356507?logo=discord&label=Discord" alt="Discord"></a>
+</div>
+
+
 **A lightweight, fast, and cross-platform CLI tool for linting Git commit messages.**
 
 Linting commit messages helps maintain a consistent commit history, which is critical for readability, automation, and collaboration across teams. commitlint ensures your commits follow a defined convention, making your Git logs cleaner and easier to work with.

@@ -10,7 +10,7 @@ export default defineConfig({
   server: {
     host: true,
     allowedHosts: [
-      "landing-considerable-examines-applications.trycloudflare.com",
+      "dubai-trusts-asked-considers.trycloudflare.com",
     ],
   },
   adapter: cloudflare(),
@@ -40,6 +40,11 @@ export default defineConfig({
           icon: "github",
           label: "GitHub",
           href: "https://github.com/jurienhamaker/commitlint",
+        },
+        {
+		  icon: "discord",
+          label: "Discord",
+          href: "https://discord.gg/UttZbEd9zn"
         },
       ],
       sidebar: [
