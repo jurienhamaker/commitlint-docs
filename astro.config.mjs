@@ -3,6 +3,8 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightThemeObsidian from "starlight-theme-obsidian";
 
+import cloudflare from "@astrojs/cloudflare";
+
 // https://astro.build/config
 export default defineConfig({
   server: {
@@ -11,6 +13,7 @@ export default defineConfig({
       "landing-considerable-examines-applications.trycloudflare.com",
     ],
   },
+  adapter: cloudflare(),
   integrations: [
     starlight({
       title: "Commitlint",
