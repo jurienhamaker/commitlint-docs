@@ -1,7 +1,7 @@
 
 ---
-title: Global hooks
-description: A simple guide on how to add global git hooks
+title: Global configuration
+description: A simple guide on how to add global configuration
 ---
 
 ## Commitlint
