@@ -15,6 +15,14 @@ Install using Homebrew:
 brew install --cask jurienhamaker/commitlint-go/commitlint-go
 ```
 
+#### Linux (Snap)
+
+Install by Snap
+
+```bash
+snap install commitlint
+```
+
 #### Linux (Arch-based systems)
 
 Install from the AUR (using an AUR helper like `yay` or `paru`):
